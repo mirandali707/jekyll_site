@@ -21,7 +21,7 @@
 title: Miranda Li 
 email: mirandal@stanford.edu
 description: >- # this means to ignore newlines until "baseurl:"
-I'm a rising junior at Stanford majoring in CS with a focus on Biocomputation. My interests include leveraging the potential of computation and AI/ML to improve health outcomes here and far away, supporting journalists in their pursuit of the truth, making things (art, code, data, words, etc.) beautiful through thoughtful and intentional design, and learning through teaching. This is my website :^)
+My name is Miranda. I'm a Stanford student. This is my website :^)
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
