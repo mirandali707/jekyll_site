@@ -6,7 +6,7 @@
 layout: page
 ---
 
-![a tastefully blurry picture of Miranda, who has long black hair and a face and is laughing cheekily](/img/miranda.png)
+![a tastefully blurry picture of Miranda, who has long black hair and a face and is laughing cheekily](/img/miranda.jpg)
 
 Hello, my name is Miranda; I'm a rising junior at Stanford majoring in CS with a focus on Biocomputation. My interests include leveraging the potential of computation and AI/ML to improve health outcomes here and far away, supporting journalists in their pursuit of the truth, making things (art, code, data, words, etc.) beautiful through thoughtful and intentional design, and learning through teaching. I hope you're having a good day :^)
 
