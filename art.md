@@ -7,7 +7,7 @@ I like making art!
 
 Lately I've been exploring art that bridges traditional mediums (pencil, paint, etc.) with newfangled digital technologies (Procreate, AI, etc.). Here are some things in this vein I've done recently:
 * [Nonsense newspapers](https://mirandali707.github.io/nonsense_newspapers/index.html) was a project I did for CS230, Deep Learning, in which I trained a generative adversarial network (GAN) to produce gibberish newspapers.
-* [This post](#) details the progression of a piece I made with cardboard, gouache, pencil, white gel pen, a scanner, and Procreate.
+* [This post]({% post_url 2021-03-11-green-eyes %}) details the progression of a piece I made with cardboard, gouache, pencil, white gel pen, a scanner, and Procreate.
 * [Here's a post]({% post_url 2021-01-24-magdalene %}) about an experiment I did in which I animated a pencil sketch I'd done and used an open-source video frame interpolation library to multiply the framerate by 4.
 
 [Here are some pages from a sketchbook I kept from March 2020 to December 2020.](https://drive.google.com/drive/folders/15vggxU5RCSbFvxW1cyNQxIjf8E2LbCA5?usp=sharing)
